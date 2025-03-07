@@ -2,7 +2,9 @@
 
 \chapter{پاسخ سوالات سری اول}
 
-\href{https://drive.google.com/drive/folders/1BMXUcHZQBMV6n8P9XX5LD0nV40Ff3FDP?usp=drive_link}{Google Drive Folder}
+\href{https://drive.google.com/drive/folders/1BMXUcHZQBMV6n8P9XX5LD0nV40Ff3FDP?usp=drive_link}{لینک درایو گوگل کولب حاوی کدهای این تمرین}
+
+\href{https://github.com/Alireza2001Amiri/KNTU-ML}{لینک Github}
 
 % دستور زیر باعث عدم‌نمایش شماره صفحه در اولین صفحهٔ این فصل می‌شود.
 %\thispagestyle{empty}
@@ -372,7 +374,8 @@ print("RMS:", stats.myRMS())
 \end{minted}
 	
 \begin{minted}{python}
-df['Standard Deviation'] = df.apply(lambda row: Statistics(row.values).mystddev(), axis = 1)
+df['Standard Deviation'] =
+df.apply(lambda row: Statistics(row.values).mystddev(), axis = 1)
 df['RMS'] = df.apply(lambda row: Statistics(row.values).myRMS(), axis = 1)
 df
 df.tocsv("dataset.csv", index=False)

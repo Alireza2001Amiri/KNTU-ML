@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.9.2)  7 MAR 2025 14:41
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.9.2)  7 MAR 2025 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2534,47 +2534,47 @@ LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(1)/b/n' undefined
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 3.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
-(Font)              scaled to size 20.73593pt on input line 9.
+(Font)              scaled to size 20.73593pt on input line 11.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
-(Font)              scaled to size 17.27994pt on input line 10.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+(Font)              scaled to size 17.27994pt on input line 12.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
 
 (C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
 
 
 (C:\Users\lenovo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/n' will be
-(Font)              scaled to size 14.39996pt on input line 11.
+(Font)              scaled to size 14.39996pt on input line 13.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 11.
+(Font)              scaled to size 9.59998pt on input line 13.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 11.
+(Font)              scaled to size 7.19998pt on input line 13.
 
 
 LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(1)/bx/n' undefined
-(Font)              using `TU/IRLotusICEE.ttf(1)/m/n' instead on input line 11.
+(Font)              using `TU/IRLotusICEE.ttf(1)/m/n' instead on input line 13.
 
 
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/bx/n' will be
-(Font)              scaled to size 9.59998pt on input line 11.
+(Font)              scaled to size 9.59998pt on input line 13.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/bx/n' will be
-(Font)              scaled to size 7.19998pt on input line 11.
+(Font)              scaled to size 7.19998pt on input line 13.
 
 LaTeX Font Warning: Font shape `TU/IRLotusICEE.ttf(1)/m/it' undefined
-(Font)              using `TU/IRLotusICEE.ttf(1)/m/n' instead on input line 11.
+(Font)              using `TU/IRLotusICEE.ttf(1)/m/n' instead on input line 13.
 
 
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/it' will be
-(Font)              scaled to size 9.59998pt on input line 11.
+(Font)              scaled to size 9.59998pt on input line 13.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/it' will be
-(Font)              scaled to size 7.19998pt on input line 11.
+(Font)              scaled to size 7.19998pt on input line 13.
 
-Underfull \vbox (badness 6961) has occurred while \output is active []
+Underfull \vbox (badness 1642) has occurred while \output is active []
 
 \openout6 = `Alireza_Amiri_ML_Assignment7.mw'.
 
@@ -2599,18 +2599,18 @@ Underfull \vbox (badness 6961) has occurred while \output is active []
 \openout6 = `Alireza_Amiri_ML_Assignment7.mw'.
 
 
-Overfull \hbox (10.1846pt too wide) detected at line 55
+Overfull \hbox (10.1846pt too wide) detected at line 57
 \OML/cmm/m/it/12 BA \OT1/cmr/m/n/12 = [] [] = []
  []
 
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
-(Font)              scaled to size 9.59998pt on input line 71.
+(Font)              scaled to size 9.59998pt on input line 73.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
-(Font)              scaled to size 7.19998pt on input line 71.
+(Font)              scaled to size 7.19998pt on input line 73.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
-(Font)              scaled to size 13.13995pt on input line 75.
+(Font)              scaled to size 13.13995pt on input line 77.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/n' will be
-(Font)              scaled to size 13.13995pt on input line 75.
+(Font)              scaled to size 13.13995pt on input line 77.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.49446pt, for example:
@@ -2700,7 +2700,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout6 = `Alireza_Amiri_ML_Assignment7.mw'.
 
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 215.
+(Font)              scaled to size 14.39996pt on input line 217.
 \pydata@fh@_83E99F1CDD07A453DE3F4F188D47F1D3.data.minted=\write130
 \openout6 = `_83E99F1CDD07A453DE3F4F188D47F1D3.data.minted'.
 
@@ -2730,7 +2730,7 @@ LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
 
 \openout6 = `_83E99F1CDD07A453DE3F4F188D47F1D3.data.minted'.
 
-runsystem(latexminted config  --timestamp 20250307144131 83E99F1CDD07A453DE3F4F
+runsystem(latexminted config  --timestamp 20250307144838 83E99F1CDD07A453DE3F4F
 188D47F1D3)...disabled (restricted).
 
 
@@ -2744,7 +2744,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.227 \end{minted}
+l.229 \end{minted}
                   
 This error message was generated by an \errmessage
 command, so I can't give any explicit help.
@@ -2760,7 +2760,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.227 \end{minted}
+l.229 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -2772,7 +2772,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.227 \end{minted}
+l.229 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -2798,7 +2798,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout6 = `Alireza_Amiri_ML_Assignment7.mw'.
 
 
-Overfull \hbox (46.63002pt too wide) in paragraph at lines 240--243
+Overfull \hbox (46.63002pt too wide) in paragraph at lines 242--245
 []\TU/IRLotusICEE.ttf(0)/m/n/12 کلید های زیر تعریف شده اند. __header__، __versi
 on__، __globals__، X\TU/IRLotusICEE.ttf(1)/b/n/12 ۱۴۹\TU/IRLotusICEE.ttf(0)/m/n
 /12 _DE_time، X\TU/IRLotusICEE.ttf(1)/b/n/12 ۱۴۹\TU/IRLotusICEE.ttf(0)/m/n/12 _
@@ -2843,7 +2843,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.260 \end{minted}
+l.262 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -2879,7 +2879,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.281 \end{minted}
+l.283 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -2910,7 +2910,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.313 \end{minted}
+l.315 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -2947,7 +2947,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.334 \end{minted}
+l.336 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -2977,7 +2977,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.365 \end{minted}
+l.367 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -3007,7 +3007,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.372 \end{minted}
+l.374 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -3019,16 +3019,12 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.379 \end{minted}
+l.382 \end{minted}
                   
 (That was another \errmessage.)
 
 File: ./img/../img/6.png Graphic file (type bmp)
 <./img/../img/6.png>
-
-Underfull \vbox (badness 2269) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.49446pt, for example:
@@ -3051,7 +3047,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.416 \end{minted}
+l.419 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -3087,7 +3083,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.434 \end{minted}
+l.437 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -3114,7 +3110,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.455 \end{minted}
+l.458 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -3140,7 +3136,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.461 \end{minted}
+l.464 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -3152,7 +3148,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.471 \end{minted}
+l.474 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -3184,7 +3180,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.486 \end{minted}
+l.489 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -3220,7 +3216,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.520 \end{minted}
+l.523 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -3269,7 +3265,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.540 \end{minted}
+l.543 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -3297,7 +3293,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.551 \end{minted}
+l.554 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -3329,7 +3325,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.565 \end{minted}
+l.568 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -3361,7 +3357,7 @@ See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.578 \end{minted}
+l.581 \end{minted}
                   
 (That was another \errmessage.)
 
@@ -3396,9 +3392,6 @@ L3 programming layer <2024-01-22>
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 \openout6 = `Alireza_Amiri_ML_Assignment1.out'.
 
